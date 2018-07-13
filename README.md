@@ -61,39 +61,7 @@ testrpc -m "Your browser seedwords for metamask"
 5. Save Seedwords
 ![SeedWords](/images/download(1).png)
 
-**Case 2 : Windows subsystem for Linux**
-
-#### Install Windows subsystem for linux
-
-1. Enable Windows subsystem for Linux and install from Windows Store.Follow this short guide on how to enable it.
-(https://msdn.microsoft.com/en-us/commandline/wsl/install_guide)
-
-2. After following the steps in the guide above. Simply start the Ubuntu bash shell
-
-3. install on a machine without node
-##### Make sure Ubuntu is up to date
-```
-sudo apt-get update -y && sudo apt-get upgrade -y
-```
-##### Install build essentials & python. lots of NPM libraries require these
-```
-sudo apt install build-essential python -y
-```
-##### install nvm  https://github.com/creationix/nvm#install-script (the below command is a single line)
-```
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
-```
-##### restart bash to enable nvm (saves you restarting your terminal)
-```
-exec bash
-```
-##### install node and our npm packages
-```
-nvm install node
-npm install -g truffle ganache-cli
-```
-
-**Case 3 : Windows 10**
+**Case 2 : Windows 10**
 
 1. Pre-step: Install Chocolatey
 
@@ -120,9 +88,9 @@ Open a NEW PowerShell prompt as Administrator (to ensure that it reloads), then 
 
 ```
 
-### Start the Project
+### Setting Application
 
-1.Download Starter_kit.zip
+1.git clone https://github.com/OriginProtocol/demo-dapp origin-demo-dapp && cd origin-demo-dapp
 
 2.Unzip Starter_kit.zip
 
