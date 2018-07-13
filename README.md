@@ -8,10 +8,10 @@
 
 ### Prerequisites
 
-1.Truffle Latest Version
-2.Testrpc
-3.Metamask
-4.Node js (We need this to install truffle and testrpc)
+1. Truffle Latest Version
+2. Testrpc
+3. Metamask
+4. Node js (We need this to install truffle and testrpc)
  
 ### Installation Steps
 **Case 1 : OS : Ubuntu 14.04 and 16.04** 
