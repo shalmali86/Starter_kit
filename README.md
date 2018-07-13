@@ -54,12 +54,12 @@ testrpc -m "Your browser seedwords for metamask"
 
 1. Go to : (https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
 2. Click on **Add to Crome** as shown in below image.
-![Add to Crome](/images/0_G5l8hOVqhjQ1kxhC.png)
+![Add to Crome](/0_G5l8hOVqhjQ1kxhC.png)
 3. Click on Metamask plugin 
 4. Create New Password
-![Password](/images/download.png)
+![Password](/download.png)
 5. Save Seedwords
-![SeedWords](/images/download(1).png)
+![SeedWords](/download(1).png)
 
 **Case 2 : Windows 10**
 
