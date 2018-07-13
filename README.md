@@ -59,7 +59,7 @@ testrpc -m "Your browser seedwords for metamask"
 4. Create New Password
 ![Password](/download.png)
 5. Save Seedwords
-![SeedWords](/download (1).png)
+![SeedWords](/download(1).png)
 
 **Case 2 : Windows 10**
 
