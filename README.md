@@ -90,28 +90,32 @@ Open a NEW PowerShell prompt as Administrator (to ensure that it reloads), then 
 
 ### Setting Application
 
-1.git clone https://github.com/OriginProtocol/demo-dapp origin-demo-dapp && cd origin-demo-dapp
+1. git clone (https://github.com/shalmali86/Starter_kit.git) && cd Starter_kit
 
-2.Unzip Starter_kit.zip
+2. npm install
 
-3.Open Terminal1 / Command promt
+3. truffle compile // This step will create build folder.
 
-4.cd Starter_kit // Go to Startup-kit directory
+4. Open Terminal2 / Another Command promt
 
-5.truffle compile // This step will create build folder.
+5. Start testrpc by command ->  testrpc -m "seedwords of Metamsk"
 
-6.Open Terminal2 / Another Command promt
+6. truffle migrate //migrate smart contract to running blockchain 
 
-7.Start testrpc by command ->  testrpc -m "seedwords of Metamsk"
+7. npm run dev // To run the application in browser
 
-8.truffle migrate //migrate smart contract to running blockchain 
+8. open "http://localhost:8080" in web browser ( See below pic for reference)
 
-9.npm run dev // To run the application in browser
+![Output](/output.png)
 
-10.open "http://localhost:8080" in web browser
+9. Enter value for 3 text boxes for pricipal , period , rate
 
+10. Click on **Calculate** button 
 
+11. Metamask will open notification window 
 
-**Thats it folks!**
+12. Accept transaction.
 
-**Implement your own DApp.**
+13. See result as interest. 
+
+**Thank you!**
