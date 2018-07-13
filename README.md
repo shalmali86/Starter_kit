@@ -104,9 +104,7 @@ Open a NEW PowerShell prompt as Administrator (to ensure that it reloads), then 
 
 7. npm run dev // To run the application in browser
 
-8. open "http://localhost:8080" in web browser ( See below pic for reference)
-
-![Output](/output.png)
+8. open "http://localhost:8080" in web browser
 
 9. Enter value for 3 text boxes for pricipal , period , rate
 
