@@ -103,6 +103,22 @@ Open a NEW PowerShell prompt as Administrator (to ensure that it reloads), then 
 # npm install -g webpack-dev-server
 
 ```
+5. Install Metamask for Crome
+
+1. Go to : (https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
+
+2. Click on **Add to Crome** as shown in below image.
+
+![Add to Crome](/0_G5l8hOVqhjQ1kxhC.png)
+
+3. Click on Metamask plugin 
+
+4. Create New Password
+
+![Password](/download.png)
+5. Save Seedwords
+
+![SeedWords](/download_1.png)
 
 
 ### Setting Application
