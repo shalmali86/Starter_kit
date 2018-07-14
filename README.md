@@ -71,20 +71,10 @@ testprc uses ethereumjs to simulate full client behavior and make developing Eth
 
 **Case 2 : Windows 10**
 
-1. Pre-step: Install Chocolatey
 
-Install Chocolatey via (https://chocolatey.org/)
+1. Go to (https://nodejs.org/en/) to install nodejs.
 
-2. Install Windows tools with Chocolatey:
-
-Open a PowerShell prompt as an Administrator and run the following commands (last command optional):
-
-```
-# choco install nodejs.install –y
-# choco install git –y
-# choco install VisualStudioCode -y  
-```
-3. Install the tools via npm:
+2. Install the tools via npm:
 
 Open a NEW PowerShell prompt as Administrator (to ensure that it reloads), then run the following commands:
 
@@ -96,14 +86,14 @@ Open a NEW PowerShell prompt as Administrator (to ensure that it reloads), then 
 
 ```
 
-4. Install webpack && webpack-dev-server
+3. Install webpack && webpack-dev-server
 
 ```
 # npm install -g webpack
 # npm install -g webpack-dev-server
 
 ```
-5. Install Metamask for Crome
+4. Install Metamask for Crome
 
 1. Go to : (https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
 
