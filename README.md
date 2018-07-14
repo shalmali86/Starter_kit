@@ -52,6 +52,7 @@ Open a NEW PowerShell prompt as Administrator (to ensure that it reloads), then 
 4. Create New Password
 
 ![Password](/download.png)
+
 5. Save Seedwords
 
 ![SeedWords](/download_1.png)
