@@ -39,7 +39,7 @@ Open a NEW PowerShell prompt as Administrator (to ensure that it reloads), then 
 # npm install -g webpack-dev-server
 
 ```
-4. Install Metamask for Crome
+4. Install Metamask for Chrome
 
 1. Go to : (https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
 
@@ -93,7 +93,7 @@ testprc uses ethereumjs to simulate full client behavior and make developing Eth
 # testrpc -m "Your browser seedwords for metamask"
 
 ```
-#### Install Metamask for Crome
+#### Install Metamask for Chrome
 
 1. Go to : (https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
 2. Click on **Add to Crome** as shown in below image.
