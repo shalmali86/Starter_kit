@@ -20,6 +20,10 @@
 
 1. Go to (https://nodejs.org/en/) to install nodejs.
 
+
+**Note : Run command prompt as administrator for installation **
+
+
 2. Install the tools via npm:
 
 Open a NEW PowerShell prompt as Administrator (to ensure that it reloads), then run the following commands:
@@ -114,6 +118,7 @@ testprc uses ethereumjs to simulate full client behavior and make developing Eth
 
 
 ### Setting Application
+
 
 1. git clone https://github.com/shalmali86/Starter_kit.git && cd Starter_kit
 
