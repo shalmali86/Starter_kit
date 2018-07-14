@@ -14,7 +14,49 @@
 4. Truffle Latest Version - Development Environment
  
 ### Installation Steps
-**Case 1 : OS : Ubuntu 14.04 and 16.04** 
+
+**Case 1 : Windows 10**
+
+
+1. Go to (https://nodejs.org/en/) to install nodejs.
+
+2. Install the tools via npm:
+
+Open a NEW PowerShell prompt as Administrator (to ensure that it reloads), then run the following commands:
+
+```
+# npm install -g npm
+# npm install -g -production windows-build-tools
+# npm install -g ethereumjs-testrpc
+# npm install -g truffle
+
+```
+
+3. Install webpack && webpack-dev-server
+
+```
+# npm install -g webpack
+# npm install -g webpack-dev-server
+
+```
+4. Install Metamask for Crome
+
+1. Go to : (https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
+
+2. Click on **Add to Crome** as shown in below image.
+
+![Add to Crome](/0_G5l8hOVqhjQ1kxhC.png)
+
+3. Click on Metamask plugin 
+
+4. Create New Password
+
+![Password](/download.png)
+5. Save Seedwords
+
+![SeedWords](/download_1.png)
+
+**Case 2 : OS : Ubuntu 14.04 and 16.04** 
 #### Install Packages
 First, update and install packages
 ```
@@ -68,47 +110,6 @@ testprc uses ethereumjs to simulate full client behavior and make developing Eth
 # npm install -g webpack-dev-server
 
 ```
-
-**Case 2 : Windows 10**
-
-
-1. Go to (https://nodejs.org/en/) to install nodejs.
-
-2. Install the tools via npm:
-
-Open a NEW PowerShell prompt as Administrator (to ensure that it reloads), then run the following commands:
-
-```
-# npm install -g npm
-# npm install -g -production windows-build-tools
-# npm install -g ethereumjs-testrpc
-# npm install -g truffle
-
-```
-
-3. Install webpack && webpack-dev-server
-
-```
-# npm install -g webpack
-# npm install -g webpack-dev-server
-
-```
-4. Install Metamask for Crome
-
-1. Go to : (https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
-
-2. Click on **Add to Crome** as shown in below image.
-
-![Add to Crome](/0_G5l8hOVqhjQ1kxhC.png)
-
-3. Click on Metamask plugin 
-
-4. Create New Password
-
-![Password](/download.png)
-5. Save Seedwords
-
-![SeedWords](/download_1.png)
 
 
 ### Setting Application
