@@ -8,10 +8,10 @@
 
 ### Prerequisites
 
-1. Truffle Latest Version
-2. Testrpc
-3. Metamask
-4. Node js (We need this to install truffle and testrpc)
+1.  Node js (We need this to install truffle and testrpc) 
+2. Testrpc - In memory Blockchain
+3. Metamask - Helps run DApp in the browser itself.
+4. Truffle Latest Version - Development Environment
  
 ### Installation Steps
 **Case 1 : OS : Ubuntu 14.04 and 16.04** 
@@ -47,7 +47,7 @@ testprc uses ethereumjs to simulate full client behavior and make developing Eth
 
 ```
 
-testrpc -m "Your browser seedwords for metamask"
+# testrpc -m "Your browser seedwords for metamask"
 
 ```
 #### Install Metamask for Crome
@@ -60,6 +60,14 @@ testrpc -m "Your browser seedwords for metamask"
 ![Password](/download.png)
 5. Save Seedwords
 ![SeedWords](/download_1.png)
+
+#### Install Webpack 
+
+```
+# npm install -g webpack
+# npm install -g webpack-dev-server
+
+```
 
 **Case 2 : Windows 10**
 
@@ -87,6 +95,15 @@ Open a NEW PowerShell prompt as Administrator (to ensure that it reloads), then 
 # npm install -g truffle
 
 ```
+
+4. Install webpack && webpack-dev-server
+
+```
+# npm install -g webpack
+# npm install -g webpack-dev-server
+
+```
+
 
 ### Setting Application
 
