@@ -115,7 +115,7 @@ testprc uses ethereumjs to simulate full client behavior and make developing Eth
 
 ### Setting Application
 
-1. git clone (https://github.com/shalmali86/Starter_kit.git) && cd Starter_kit
+1. git clone https://github.com/shalmali86/Starter_kit.git && cd Starter_kit
 
 2. npm install
 
