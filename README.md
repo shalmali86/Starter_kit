@@ -15,8 +15,13 @@
 
 ### PaperSpace Installation Steps
 1. Sign In to Paperspace(https://www.paperspace.com) with Username: your email id and Password: your phone number
-2. open Command Prompt/ Terminal and connect with - ssh paperspace@(your public ip ex:72.52.111.97) -L 8080:localhost:8080
-3. Linux VM systems are given to everyone, for further installations follow the installations steps from Case 2 : Ubuntu 16.04
+2. For Ubuntu/Mac - open Terminal and connect with - ssh paperspace@(your public ip ex:72.52.111.97) -L 8080:localhost:8080
+    a. For further installations on paperspace linux vm,follow the installations steps from Case 2 : Ubuntu 16.04
+3. For Windows:
+    a. Download putty from https://www.putty.org/
+    b. To configure SSH tunnel on putty follow - https://blog.devolutions.net/2017/4/how-to-configure-an-ssh-tunnel-on-putty
+    c. For port forwarding follow - https://intranet.cs.hku.hk/csintranet/contents/technical/howto/putty-portforward.jsp
+    d. For further installations on paperspace linux vm,follow the installations steps from Case 2 : Ubuntu 16.04 
  
 ### Installation Steps
 
