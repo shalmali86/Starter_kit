@@ -12,6 +12,11 @@
 2. Testrpc - In memory Blockchain
 3. Metamask - Helps run DApp in the browser itself.
 4. Truffle Latest Version - Development Environment
+
+### PaperSpace Installation Steps
+1. Sign In to Paperspace(https://www.paperspace.com) with Username: your email id and Password: your phone number
+2. open Command Prompt/ Terminal and connect with - ssh paperspace@(your public ip ex:72.52.111.97) -L 8080:localhost:8080
+3. Linux VM systems are given to everyone, for further installations follow the installations steps from Case 2 : Ubuntu 16.04
  
 ### Installation Steps
 
@@ -61,7 +66,7 @@ Open a NEW PowerShell prompt as Administrator (to ensure that it reloads), then 
 
 ![SeedWords](/download_1.png)
 
-**Case 2 : OS : Ubuntu 14.04 and 16.04** 
+**Case 2 : OS : Ubuntu 16.04 and 18.04** 
 #### Install Packages
 First, update and install packages
 ```
