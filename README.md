@@ -1,7 +1,7 @@
 # Starter kit - Ethereum Project
 
 ## Introduction
-  This is a starter project kit for Ethereum Projects. This project implementes _**Simple Interest**_ scenario.
+  This is a starter project kit for Ethereum Projects. 
   
 ## Getting Started 
   These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
