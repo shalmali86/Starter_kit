@@ -1,4 +1,4 @@
-pragma solidity ^0.4.4;
+pragma solidity ^0.5.16;
 
 contract SI {
     uint public Principal;
@@ -8,7 +8,7 @@ contract SI {
     
     address public tenant;
    
-        function SI() public {
+        constructor() public {
             tenant=msg.sender;
             Principal=0;
         }
